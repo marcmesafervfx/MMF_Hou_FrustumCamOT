@@ -8,8 +8,5 @@ The installation for this tool is going to be pretty simple:
 - If you want to be able to create the node using the tab key, you'll need to use the context tab from the tool and tick the SOP option.
 
 #
-#
-#
-#
 
 Hello to everyone, I’m @marcmesafervfx and I'm an FXTD enthusiast of programming and optimization approaches. I've been creating tools and scripts with Python, VEX and XML which gave the artists the opportunity to create FX smoothly. Working hard to make my department and other's life easier with fast and efficient solutions. For any questions, don't hesistate to contact me via email: marcmesafervfx@gmail.com
